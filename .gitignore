@@ -2,7 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Dev
+Content/Dev
 .vscode
 .vs
 *.VC.db
@@ -13,3 +13,4 @@ Dev
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Game/Maps/Development/ExampleMap_BuiltData.uasset
